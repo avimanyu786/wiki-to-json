@@ -43,7 +43,7 @@ python wiki-to-json.py
 ### CLI
 
 ```bash
-python wiki-to-json.py
+python wiki-to-json-cli.py
 ```
 
 Follow the instructions in the GUI to enter a URL and save the JSON file. For the CLI, you need to run it in a terminal and paste the Wiki link.
