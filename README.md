@@ -30,6 +30,10 @@ A Python GUI tool to fetch tables from a Wikipedia page and save them as a JSON 
    sudo apt install python3-tk
    ```
 
+### Inspiration and Credits
+
+This project is inspired by [GPU Info API](https://github.com/voidful/gpu-info-api).
+
 ## Usage
 
 ### GUI
@@ -47,6 +51,8 @@ python wiki-to-json-cli.py
 ```
 
 Follow the instructions in the GUI to enter a URL and save the JSON file. For the CLI, you need to run it in a terminal and paste the Wiki link.
+
+
 
 ## License
 
