@@ -30,7 +30,7 @@ A Python GUI tool to fetch tables from a Wikipedia page and save them as a JSON 
    sudo apt install python3-tk
    ```
 
-### Inspiration and Credits
+## Inspiration and Credits
 
 This project is inspired by [GPU Info API](https://github.com/voidful/gpu-info-api).
 
