@@ -16,7 +16,7 @@ A Python GUI tool to fetch tables from a Wikipedia page and save them as a JSON 
 
 1. Clone the repository and enter its directory:
    ```bash
-   git clone https://github.com/your-username/wiki-to-json.git && cd wiki-to-json
+   git clone https://github.com/avimanyu786/wiki-to-json.git && cd wiki-to-json
    ```
 
 2. Install the dependencies:
